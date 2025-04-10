@@ -1,0 +1,14 @@
+manifest_version 1.0
+
+files_tracked
+- vitron.token
+- boundaries.token
+- NOTICE.md
+- LICENSE.md
+- README.md
+- status.txt
+- timeline.txt
+
+branch fif
+integrity sealed
+license model proprietary

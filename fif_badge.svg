@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20">
+  <linearGradient id="fifGradient" x2="0" y2="100%">
+    <stop offset="0" stop-color="#00ffbb" stop-opacity=".7"/>
+    <stop offset="1" stop-opacity=".7"/>
+  </linearGradient>
+  <rect rx="4" width="130" height="20" fill="#000"/>
+  <rect rx="4" x="60" width="70" height="20" fill="url(#fifGradient)"/>
+  <text x="6" y="14" fill="#00ffbb" font-family="monospace" font-size="11">branch</text>
+  <text x="65" y="14" fill="#fff" font-family="monospace" font-size="11">fif</text>
+</svg>
