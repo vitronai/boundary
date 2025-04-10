@@ -1,0 +1,9 @@
+* text=auto
+*.token text
+*.md text
+status.txt text
+timeline.txt text
+LICENSE.md text
+README.md text
+vitron.token linguist-generated=false
+boundaries.token linguist-generated=false
